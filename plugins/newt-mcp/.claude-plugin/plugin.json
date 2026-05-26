@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "newt-mcp",
+  "displayName": "NEWT MCP",
+  "description": "newt.net のツアー・ホテル・目的地・空港検索を Claude から利用できる MCP サーバー",
+  "version": "1.0.0",
+  "author": {
+    "name": "ReiwaTravel"
+  },
+  "homepage": "https://newt.net",
+  "repository": "https://github.com/reiwa-travel/newt-mcp-server",
+  "license": "MIT",
+  "keywords": [
+    "travel",
+    "japan",
+    "newt",
+    "tours",
+    "hotels",
+    "mcp"
+  ]
+}

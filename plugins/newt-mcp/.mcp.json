@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "newt": {
+      "type": "http",
+      "url": "https://mcp.newt-dev.net/mcp"
+    }
+  }
+}
