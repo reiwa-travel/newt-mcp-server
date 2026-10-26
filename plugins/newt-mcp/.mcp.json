@@ -2,7 +2,7 @@
   "mcpServers": {
     "newt": {
       "type": "http",
-      "url": "https://mcp.newt-dev.net/mcp"
+      "url": "https://mcp.newt.net/mcp"
     }
   }
 }
